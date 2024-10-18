@@ -1,0 +1,13 @@
+{
+  "name": "soda课程资料",
+  "sort": 5,
+  "icon": "1f393",
+  "closed": false,
+  "refCreateSaveBox": "",
+  "refCreateSavePath": "",
+  "docCreateSaveBox": "",
+  "docCreateSavePath": "",
+  "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
+}
